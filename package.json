@@ -7,12 +7,12 @@
     "frontity"
   ],
   "engines": {
-    "node": ">=14.18.1",
-    "npm": ">=8.3.1"
+    "node": ">=10.0.0",
+    "npm": ">=8.0.0"
   },
   "scripts": {
     "dev": "frontity dev",
-    "build": "frontity build",
+    "build": "frontity build --public-path https://staging-fastsole.vercel.app/static",
     "serve": "frontity serve"
   },
   "prettier": {},
@@ -31,6 +31,7 @@
     "@frontity/tiny-router": "^1.4.4",
     "@frontity/wp-source": "^1.11.7",
     "@frontity/yoast": "^2.1.1",
+    "algoliasearch": "^4.13.1",
     "chakra-paginator": "^0.7.3",
     "chokidar": "^3.5.2",
     "date-fns": "^2.28.0",
@@ -38,13 +39,14 @@
     "framer-motion": "^4.1.17",
     "frontity": "^1.17.1",
     "jquery": "^3.6.0",
-    "moment": "^2.29.1",
     "react-date-range": "^1.4.0",
     "react-icons": "^4.3.1",
+    "react-instantsearch-dom": "6.38.0",
     "react-lazyload": "^3.2.0",
     "react-multi-carousel": "^2.6.5",
     "react-share": "^4.4.0",
     "react-window": "^1.8.6",
+    "reload": "^3.2.0",
     "styled-components": "^5.3.3",
     "universal-cookie": "^4.0.4"
   }

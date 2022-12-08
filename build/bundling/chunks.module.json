@@ -1,0 +1,547 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "1fcc96bdcd978b6b357f",
+  "publicPath": "",
+  "outputPath": "/home/ubuntu/Documents/staging-fastsole/staging-fastsole/22222/fastsole_aureatelabs/build/static",
+  "assetsByChunkName": {
+    "component-BrandList": "component-BrandList.module.js",
+    "component-CanBuy": "component-CanBuy.module.js",
+    "component-CardDetails": "component-CardDetails.module.js",
+    "component-ComingSoonSlider": "component-ComingSoonSlider.module.js",
+    "component-Desk-Multi-Menu": "component-Desk-Multi-Menu.module.js",
+    "component-HomeMobileBanner": "component-HomeMobileBanner.module.js",
+    "component-Mobile-Multi-Menu": "component-Mobile-Multi-Menu.module.js",
+    "component-MobileSearchModel": "component-MobileSearchModel.module.js",
+    "component-Phoneslider": "component-Phoneslider.module.js",
+    "component-slider-Productslider": "component-slider-Productslider.module.js",
+    "fast-sole": "fast-sole.module.js",
+    "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu": "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu.module.js"
+  },
+  "assets": [
+    {
+      "name": "component-BrandList.module.js",
+      "size": 9018,
+      "chunks": [
+        "component-BrandList"
+      ],
+      "chunkNames": [
+        "component-BrandList"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-CanBuy.module.js",
+      "size": 26349,
+      "chunks": [
+        "component-CanBuy"
+      ],
+      "chunkNames": [
+        "component-CanBuy"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-CardDetails.module.js",
+      "size": 14714,
+      "chunks": [
+        "component-CardDetails"
+      ],
+      "chunkNames": [
+        "component-CardDetails"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-ComingSoonSlider.module.js",
+      "size": 30523,
+      "chunks": [
+        "component-ComingSoonSlider"
+      ],
+      "chunkNames": [
+        "component-ComingSoonSlider"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-Desk-Multi-Menu.module.js",
+      "size": 18082,
+      "chunks": [
+        "component-Desk-Multi-Menu"
+      ],
+      "chunkNames": [
+        "component-Desk-Multi-Menu"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-HomeMobileBanner.module.js",
+      "size": 11907,
+      "chunks": [
+        "component-HomeMobileBanner"
+      ],
+      "chunkNames": [
+        "component-HomeMobileBanner"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-Mobile-Multi-Menu.module.js",
+      "size": 17810,
+      "chunks": [
+        "component-Mobile-Multi-Menu"
+      ],
+      "chunkNames": [
+        "component-Mobile-Multi-Menu"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-MobileSearchModel.module.js",
+      "size": 36431,
+      "chunks": [
+        "component-MobileSearchModel"
+      ],
+      "chunkNames": [
+        "component-MobileSearchModel"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-Phoneslider.module.js",
+      "size": 12875,
+      "chunks": [
+        "component-Phoneslider"
+      ],
+      "chunkNames": [
+        "component-Phoneslider"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "component-slider-Productslider.module.js",
+      "size": 10588,
+      "chunks": [
+        "component-slider-Productslider"
+      ],
+      "chunkNames": [
+        "component-slider-Productslider"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fast-sole.module.js",
+      "size": 42984884,
+      "chunks": [
+        "fast-sole"
+      ],
+      "chunkNames": [
+        "fast-sole"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/cyrillic-ext.woff2",
+      "size": 17508,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/cyrillic-ext.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/cyrillic.woff2",
+      "size": 10092,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/cyrillic.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/devanagari-martel.woff2",
+      "size": 46212,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/devanagari-martel.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/greek.woff2",
+      "size": 8948,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/greek.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-Raleway.woff",
+      "size": 20040,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-Raleway.woff"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-ext-Raleway.woff",
+      "size": 13052,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-ext-Raleway.woff"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-ext-martel.woff2",
+      "size": 11796,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-ext-martel.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-ext-opensans.woff2",
+      "size": 12956,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-ext-opensans.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-martel.woff2",
+      "size": 18960,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-martel.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/latin-opensans.woff2",
+      "size": 16692,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/latin-opensans.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/reviconIE6-8.eot",
+      "size": 12264,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/reviconIE6-8.eot"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/reviconforall.ttf",
+      "size": 12096,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/reviconforall.ttf"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/reviconsIE9.eot",
+      "size": 12264,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/fonts/reviconsIE9.eot"
+      },
+      "emitted": false
+    },
+    {
+      "name": "images/logo.png",
+      "size": 3104,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/mars-theme/src/images/logo.png"
+      },
+      "emitted": false
+    },
+    {
+      "name": "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu.module.js",
+      "size": 257299,
+      "chunks": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu"
+      ],
+      "chunkNames": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "fast-sole": {
+      "chunks": [
+        "fast-sole"
+      ],
+      "assets": [
+        "fast-sole.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-ComingSoonSlider": {
+      "chunks": [
+        "component-ComingSoonSlider"
+      ],
+      "assets": [
+        "component-ComingSoonSlider.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-FocusOnSlider": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-TopBrandSlider": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-BrandList": {
+      "chunks": [
+        "component-BrandList"
+      ],
+      "assets": [
+        "component-BrandList.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-FooterComponent": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-ViewAllbtn": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-ViewAllMobile": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-HomeMobileBanner": {
+      "chunks": [
+        "component-HomeMobileBanner"
+      ],
+      "assets": [
+        "component-HomeMobileBanner.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-Phoneslider": {
+      "chunks": [
+        "component-Phoneslider"
+      ],
+      "assets": [
+        "component-Phoneslider.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-Breadcrumb": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "Skeleton-skbrand": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-slider-Productslider": {
+      "chunks": [
+        "component-slider-Productslider"
+      ],
+      "assets": [
+        "component-slider-Productslider.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-CanBuy": {
+      "chunks": [
+        "component-CanBuy"
+      ],
+      "assets": [
+        "component-CanBuy.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-CardDetails": {
+      "chunks": [
+        "component-CardDetails"
+      ],
+      "assets": [
+        "component-CardDetails.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "Productskeleton": {
+      "chunks": [],
+      "assets": [],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-Mobile-Multi-Menu": {
+      "chunks": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu",
+        "component-Mobile-Multi-Menu"
+      ],
+      "assets": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu.module.js",
+        "component-Mobile-Multi-Menu.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-Desk-Multi-Menu": {
+      "chunks": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu",
+        "component-Desk-Multi-Menu"
+      ],
+      "assets": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu.module.js",
+        "component-Desk-Multi-Menu.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component-MobileSearchModel": {
+      "chunks": [
+        "component-MobileSearchModel"
+      ],
+      "assets": [
+        "component-MobileSearchModel.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "component-BrandList",
+      "files": [
+        "component-BrandList.module.js"
+      ]
+    },
+    {
+      "id": "component-CanBuy",
+      "files": [
+        "component-CanBuy.module.js"
+      ]
+    },
+    {
+      "id": "component-CardDetails",
+      "files": [
+        "component-CardDetails.module.js"
+      ]
+    },
+    {
+      "id": "component-ComingSoonSlider",
+      "files": [
+        "component-ComingSoonSlider.module.js"
+      ]
+    },
+    {
+      "id": "component-Desk-Multi-Menu",
+      "files": [
+        "component-Desk-Multi-Menu.module.js"
+      ]
+    },
+    {
+      "id": "component-HomeMobileBanner",
+      "files": [
+        "component-HomeMobileBanner.module.js"
+      ]
+    },
+    {
+      "id": "component-Mobile-Multi-Menu",
+      "files": [
+        "component-Mobile-Multi-Menu.module.js"
+      ]
+    },
+    {
+      "id": "component-MobileSearchModel",
+      "files": [
+        "component-MobileSearchModel.module.js"
+      ]
+    },
+    {
+      "id": "component-Phoneslider",
+      "files": [
+        "component-Phoneslider.module.js"
+      ]
+    },
+    {
+      "id": "component-slider-Productslider",
+      "files": [
+        "component-slider-Productslider.module.js"
+      ]
+    },
+    {
+      "id": "fast-sole",
+      "files": [
+        "fast-sole.module.js"
+      ]
+    },
+    {
+      "id": "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu",
+      "files": [
+        "vendors~component-Desk-Multi-Menu~component-Mobile-Multi-Menu.module.js"
+      ]
+    }
+  ]
+}

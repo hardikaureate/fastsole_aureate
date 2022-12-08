@@ -2,7 +2,7 @@ const settings = {
   name: "fast-sole",
   state: {
     frontity: {
-      url: "https://dev.fastsole.co.uk",
+      url: "https://aws.fastsole.co.uk",
       title: "Test Frontity Blog",
       description: "WordPress installation for Frontity development",
       company_name: "FastSole",
@@ -32,7 +32,7 @@ const settings = {
       name: "@frontity/wp-source",
       state: {
         source: {
-          url: "https://dev.fastsole.co.uk",
+          url: "https://aws.fastsole.co.uk",
           postsPage: "/sneaker-news",
           categoryBase: "sneaker-news/category",
         },

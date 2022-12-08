@@ -1,0 +1,24 @@
+Array
+(
+    [post_type] => sneaker
+    [post_status] => publish
+    [posts_per_page] => 20
+    [orderby] => meta_value
+    [tax_query] => Array
+        (
+            [0] => Array
+                (
+                    [taxonomy] => department
+                    [operator] => IN
+                    [field] => slug
+                    [terms] => Array
+                        (
+                            [0] => nike
+                        )
+
+                )
+
+        )
+
+    [paged] => 1
+)

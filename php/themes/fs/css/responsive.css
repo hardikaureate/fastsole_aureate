@@ -1,0 +1,2797 @@
+/* #Small laptop
+----------------------------------------------------------------------*/
+
+@media only screen and (min-width: 991px){
+    .release-body {
+		margin-right: -10px;
+	}
+	.release-header h1 {
+		padding: 12px 15px;
+	}
+	.single-sneaker {
+		margin: 0 10px 10px 0;
+		border: 1px solid #ddd;
+	}
+	.search-page-container {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+	.nav-button-prev, .nav-button-next {
+		position: relative;
+	}
+	.nav-button-prev i, .nav-button-next i {
+		position: absolute;
+		top: 10px;
+		color: #fff;
+	}
+	.nav-button-prev i {
+		left: 10px;
+	}
+	.nav-button-next i {
+		right: 10px;
+	}
+	.nav-button-prev a, .nav-button-next a {
+		padding: 5px 12px;
+		display: inline-flex;
+		align-items: center;
+		color: #fff;
+		background: #ea2027;
+		border-radius: 3px;
+		transition: all .3s;
+	}
+	.nav-button-prev a {
+		padding-left: 30px;
+	}
+	.nav-button-next a {
+		padding-right: 30px;
+	}
+	.nav-button-prev a:hover, .nav-button-next a:hover {
+		text-decoration: none;
+		background: #0e263e;
+	}
+	/* .nav-button-prev a:before {
+		content: '&#8592;';
+		padding-right: 5px; 
+	}
+	.nav-button-next a:after {
+		content: '&#8594;';
+		padding-left: 5px;
+	}
+	 */
+	.search-page-container h1 {
+		margin-top: 0;
+	}
+
+	body.home .single-sneaker {
+		margin: 0;
+		border-right: 0;
+		border-top: 0;
+	}
+	body.home .tab-pane {
+		padding: 0;
+	}
+	body.home .tab-pane .single-sneaker {
+
+	}
+
+
+
+	/* .search-page-container .release-header,
+	.search-page-container .border-red {
+		margin: 0 10px;
+	}
+	
+	.search-page-container .release-body {
+		margin: 10px 0 0 10px;
+	} */
+}
+
+@media only screen and (max-width: 990px){
+	.middle-banner-section .middle-banner {
+		padding: 0;
+	}
+	.deal-container .index-heading h2 {
+		padding: 0 0 0 8px;
+		background: transparent;
+		color: #222;
+	}
+
+	.deal-container .deal-content {
+		margin-top: 0;
+	}
+	.product-details .more_content {
+	    word-break: break-word;
+	}
+	.search-term {
+		margin-left: 15px;
+	}
+	.mobile-news-section-title {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	body.home .news-img {
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+	body.home .single-news {
+		padding-top: 0;
+		border-bottom: 8px solid #ddd;
+	}
+	body.home .releases-section {
+		margin-bottom: 0;
+	}
+	.nothing-found-heading {
+		padding-left: 8px !important;
+	}
+	.footer-logo {
+		text-align: center;
+	}
+	body.no-result .container.container-xs-fluid {
+		margin: 0;
+		width: auto;
+	}
+}
+
+@media only screen and (min-width: 991px){
+	body.error404 .container.container-xs-fluid > .row {
+		margin: 0;
+	}
+	body.error404 .release-header .navbar-form {
+		padding-left: 0;
+	}
+	body.error404 .release-header .navbar-form .search {
+		float: left;
+	}
+}
+
+@media only screen and (min-width: 1070px) and (max-width: 1177px) {
+	.stellarnav > ul > li > a {
+		padding: 12px 14px;
+	}
+	.stellarnav li li a {
+		padding: 8px 12px;
+	}
+
+	.logo img {
+		width: 95%;
+	}
+	.search input[type="text"] {
+		height: 35px;
+	}
+	.search {
+		width: 75%;
+	}
+	.search-results {
+		width: 100%;
+	}
+	.search button {
+		font-size: 14px;
+		height: 35px;
+	}
+	.header-social-button {
+		margin-top: 12px;
+	}
+	.breadcrumbs {
+		padding: 8px 5px 18px 12px;
+	}
+	.sign-up h2 {
+		font-size: 20px;
+		margin-top: 52px;
+	}
+	.sign-up-input input[type="text"] {
+		height: 40px;
+		width: 48%;
+	}
+	.sign-up-icon {
+		font-size: 16px;
+		right: 25%;
+		top: 1px;
+	}
+	.footer-menu ul li {
+		margin-bottom: 3px;
+	}
+	.read-more p a {
+		padding: 3px 10px;
+		font-size: 13px;
+	}
+	.sign-up {
+		min-height: 225px;
+	}
+	.footer-menu h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		margin-top: 35px;
+	}
+	.footer-logo {
+		margin-bottom: 18px;
+		margin-top: 22px;
+	}
+	.footer-social-icons ul li a {
+		font-size: 18px;
+	}
+	.stockist h2 {
+		font-size: 14px;
+		padding: 10px;
+		width: 39%;
+	}
+	.product-title h1 {
+		font-size: 18px;
+		margin-top: 10px;
+	}
+	.release-info h2 {
+		font-size: 12px;
+	}
+	.product-price p {
+		font-size: 14px;
+		margin-right: 10px;
+	}
+	.product-style-code p {
+		font-size: 12px;
+	}
+	.product-style-code {
+		margin-right: 10px;
+	}
+	.product-status h3 {
+		font-size: 12px;
+		padding-top: 1px;
+	}
+	.product-details {
+		margin-bottom: 20px;
+		margin-top: 25px;
+	}
+	.single-stockist h4 a {
+		font-size: 13px;
+		padding: 5px 10px;
+	}
+	.product-details p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+	.nav-button-prev a {
+		font-size: 15px;
+		padding: 1px 12px;
+	}
+	.nav-button-next a {
+		font-size: 13px;
+		padding: 1px 12px;
+	}
+	.product-share ul li a {
+		font-size: 11px;
+		padding: 4px 15px 4px 8px;
+	}
+	.related-product-slider-title h3 {
+		font-size: 14px;
+		width: 35%;
+	}
+	.release-header h1 {
+		width: 28%;
+	}
+	.news-heading h2 {
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.cat-news-body {
+		min-height: 190px;
+	}
+	.news-body p {
+		line-height: 22px;
+	}
+	.news-info {
+		margin-bottom: 5px;
+	}
+	.view-news p a {
+		padding: 4px 10px;
+	}
+	.cat-news-date {
+		width: 16%;
+	}
+	.cat-news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-social-share {
+		right: 8%;
+		top: 7%;
+	}
+	.news-img {
+		margin-right: 15px;
+	}
+	.news-title h2 a {
+		font-size: 20px;
+	}
+	.news-img {
+		margin-bottom: 12px;
+	}
+	.news-title h2 {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.news-date p {
+		font-size: 14px;
+		padding: 0;
+	}
+	.news-date {
+		width: 12%;
+	}
+	.read-more {
+		float: left;
+		margin-top: 4px;
+	}
+	.single-news {
+		border-bottom: 1px solid #e1e1e1;
+		border-right: 1px solid #e1e1e1;
+		min-height: 215px;
+		padding: 10px;
+		position: relative;
+	}
+	.footer-contant {
+		padding-bottom: 20px;
+	}
+	.news-content-heading h1 {
+
+	}
+	.border-right {
+
+	}
+	.border-bottom {
+
+	}
+	.on-focus-header .brand {
+		padding: 10px 6px;
+	}
+	.top-brands-slider .on-focus-header .brand {
+	padding: 9px 0px;
+	}
+	.cat-all h4 a {
+		padding: 8px 33px 9px 10px;
+	}
+	.brand-menu ul li a {
+		padding: 6px 10px;
+	}
+	.releases-section .nav.nav-tabs li a {
+		padding-bottom: 8px;
+		padding-top: 9px;
+	}
+	.header-top {
+		padding-bottom: 16px;
+		padding-top: 14px;
+	}
+	.releases-section .single-sneaker {
+		min-height: 250px;
+	}
+	.brand-sec .single-sneaker {
+		min-height: 220px;
+	}
+	.onfocus-slider .single-sneaker {
+		min-height: 255px;
+	}
+	.top-brands-slider .single-sneaker {
+	min-height: 195px;
+	}
+	.sneaker-status {
+		min-height: 30px;
+	}
+	.single-news {
+		min-height: 432px;
+	}
+	.home .single-news {
+		min-height: 215px;
+	}
+	.read-more {
+		bottom: -5px;
+	}
+	.mobile_social_icons {
+		display: none;
+	}
+	.btn-readmore a {
+		width: 22%;
+	}
+	.news-text-wrapper > .btn-readmore a {
+		width: 18%;
+	}
+
+}
+
+
+/* #Tablet (Landscape)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 960px) and (max-width: 1069px) {
+	.stellarnav > ul > li > a {
+		padding: 12px 15px;
+	}
+	.stellarnav li li a {
+		padding: 5px 12px;
+	}
+	.logo img {
+		width: 95%;
+	}
+	.search input[type="text"] {
+		height: 35px;
+	}
+	/* .search {
+		width: 75%;
+	} */
+	.search-results {
+		width: 100%;
+	}
+	.search button {
+		font-size: 14px;
+		height: 35px;
+	}
+	.header-social-button {
+		margin-top: 12px;
+	}
+	.breadcrumbs {
+		padding: 8px 5px 18px 12px;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 70%;
+	}
+	.sign-up h2 {
+		font-size: 20px;
+		margin-top: 52px;
+	}
+	.sign-up-input input[type="text"] {
+		height: 40px;
+		width: 48%;
+	}
+	.sign-up-icon {
+		font-size: 16px;
+		right: 28%;
+		top: 8px;
+	}
+	.sign-up {
+		min-height: 225px;
+	}
+	.footer-menu h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		margin-top: 35px;
+	}
+	.footer-logo {
+		margin-bottom: 18px;
+		margin-top: 22px;
+	}
+	.footer-social-icons ul li a {
+		font-size: 18px;
+	}
+	.stockist {
+
+	}
+	.related-product-slide {
+
+	}
+	.logo img {
+
+	}
+	.news-heading h2 {
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.cat-news-body {
+		min-height: 190px;
+	}
+	.news-body p {
+		line-height: 22px;
+	}
+	.news-info {
+		margin-bottom: 5px;
+	}
+	.view-news p a {
+		padding: 4px 10px;
+	}
+	.cat-news-date {
+		width: 18%;
+	}
+	.cat-news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-social-share {
+		right: 8%;
+		top: 7%;
+	}
+	.news-img {
+		margin-right: 15px;
+	}
+	.news-title h2 a {
+		font-size: 20px;
+	}
+	.news-img {
+		margin-bottom: 12px;
+	}
+	.news-title h2 {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-date {
+		width: 12%;
+	}
+	.read-more {
+		margin-top: 15px;
+	}
+	.border-right {
+		border:none; 
+	}
+	.border-bottom {
+		border-bottom: none;
+	}
+	.on-focus-header .brand {
+		padding: 17px 10px 11px;
+	}
+	.top-brands-slider .on-focus-header .brand {
+	padding: 9px 0px;
+	}
+	.cat-all h4 a {
+		padding: 8px 33px 9px 10px;
+	}
+	.brand-menu ul li a {
+		padding: 6px 10px;
+	}
+	.releases-section .nav.nav-tabs li a {
+		padding-bottom: 8px;
+		padding-top: 9px;
+	}
+	.header-top {
+		padding-bottom: 16px;
+		padding-top: 14px;
+	}
+	.on-focus-slider {
+		margin-bottom: 20px;
+	}
+
+	.releases-section .owl-nav {
+		right: 0;
+		top: -53px;
+	}
+	.releases-section .single-sneaker {
+		min-height: 260px;
+	}
+	.brand-sec .single-sneaker {
+		min-height: 225px;
+	}
+	.onfocus-slider .single-sneaker {
+		min-height: 255px;
+	}
+.top-brands-slider .single-sneaker {
+	min-height: 185px;
+}
+	.single-news {
+		min-height: 445px;
+	}
+	.home .single-news {
+		min-height: 220px;
+	}
+	.mobile_social_icons {
+		display: none;
+	}
+	.btn-readmore a {
+		width: 23%;
+	}
+	.news-text-wrapper > .btn-readmore a {
+		width: 22%;
+	}
+
+}
+
+/* #Tablet (Portrait)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+	.stellarnav > ul > li > a {
+		padding: 10px 15px;
+	}
+	.stellarnav li li a {
+		padding: 8px 12px;
+	}
+	.logo img {
+		display: block;
+		margin: 0 auto 15px;
+		width: 45%;
+	}
+	.search input[type="text"] {
+		height: 35px;
+	}
+	/* .search {
+		float: left;
+		width: 50%;
+		margin-left: 26%;
+	} */
+	.search-results {
+		float: none;
+		margin-left: 0;
+		width: 100%;
+	}
+	.header-social-button ul {
+		text-align: center;
+	}
+	.search button {
+		font-size: 14px;
+		height: 35px;
+	}
+	.header-social-button {
+		margin-top: 18px;
+	}
+	.breadcrumbs {
+		padding: 8px 5px 10px 12px;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 70%;
+	}
+	.sign-up h2 {
+		font-size: 20px;
+		margin-top: 52px;
+	}
+	.sign-up-input input[type="text"] {
+		height: 40px;
+		width: 48%;
+	}
+	.sign-up-icon {
+		font-size: 16px;
+		right: 25%;
+		top: 1px;
+	}
+	.sign-up {
+		min-height: 225px;
+	}
+	.footer-menu h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		margin-top: 35px;
+	}
+	.footer-logo {
+		margin-bottom: 18px;
+		margin-top: 22px;
+	}
+	.footer-social-icons ul li a {
+		font-size: 18px;
+	}
+	.stockist {
+		margin-top: 15px;
+		padding-left: 0;
+	}
+	.stockist-image {
+		max-height: 70px;
+		text-align: center;
+		width: 20%;
+	}
+	.nav-button-prev .fa-angle-double-left {
+		position: absolute;
+		top: 7px;
+	}
+	.nav-button-next .fa-angle-double-right {
+		position: absolute;
+		top: 8px;
+	}
+	.nav-button .nav-button-next {
+
+		padding: 0px 20px 0px 5px;
+	}
+	.nav-button .nav-button-prev {
+		padding: 0px 7px;
+
+	}
+	.stockist-image img {
+		float: left;
+	}
+	.related-product-slide {
+		margin-bottom: 10px;
+	}
+	.logo img {
+
+	}
+	.sidebar-slider{
+		display: none !important;
+	}
+	.release-header h1 {
+		width: 28%;
+	}
+	.release-slider {
+		padding-right: 15px;
+		padding-top: 15px;
+		position: absolute;
+		top: -43%;
+	}
+	.release-filters {
+		margin-top: 25%;
+	}
+	.news-heading h2 {
+		font-size: 20px;
+		margin-top: 10px;
+	}
+	.cat-news-body {
+		min-height: 190px;
+	}
+	.news-body p {
+		line-height: 22px;
+	}
+	.news-info {
+		margin-bottom: 0;
+	}
+	.view-news p a {
+		padding: 4px 10px;
+	}
+	.cat-news-date {
+		width: 15%;
+	}
+	.cat-news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-social-share {
+		right: 8%;
+		top: 7%;
+	}
+	.news-img {
+		margin-right: 15px;
+	}
+	.news-title h2 a {
+		font-size: 20px;
+	}
+	.news-img {
+		margin-bottom: 12px;
+	}
+	.news-title h2 {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-date {
+		width: 19%;
+	}
+	.read-more {
+		margin-top: 28px;
+	}
+	.view-news {
+		bottom: -2px;
+	}
+	.news-text {
+		margin-top: 12px;
+	}
+	.news-content-heading h1 {
+		font-size: 20px;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 70%;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 70%;
+	}
+	.deal-single {
+		/*min-height: 325px;*/
+	}
+	.news-content-date h2 {
+		font-size: 14px;
+	}
+	.font-24 {
+		font-size: 20px;
+		padding-left: 2px;
+	}
+	.content-cat {
+		margin-right: 5px;
+		margin-left: 62px;
+		padding: 0 8px;
+	}
+	.content-tag {
+		margin-right: 5px;
+		padding: 0 8px;
+	}
+	.single-related-news h2 {
+		margin-left: -15px;
+		margin-right: 10px;
+		margin-top: 10px;
+	}
+	.related-news-img {
+		margin-right: 10px;
+	}
+	.single-related-news {
+		min-height: 205px;
+	}
+	.content-related-news h2.content-related-news-heading {
+		width: 30%;
+	}
+	.news-content .nav-button {
+		margin-top: 10px;
+		width: 80%;
+	}
+	.news-content .nav-button-next a {
+		border: medium none;
+	}
+	.nav-button .nav-button-prev a {
+		border: medium none;
+		display: block;
+	}
+	.news-content .nav-button .nav-button-prev, .news-content .nav-button .nav-button-next {
+		text-align: left;
+	}
+	.nav-button-prev a {
+		padding: 4px 12px 6px 2px;
+	}
+	.nav-button-next a {
+		padding: 2px 12px;
+	}
+
+	.border-right {
+		border:none; 
+	}
+	.border-bottom {
+		border-bottom: none;
+	}
+
+	.on-focus-header-border {
+		min-height: 38px;
+	}
+	.on-focus-header .brand {
+		padding: 11px 10px;
+	}
+	.on-focus-header-right {
+		margin-right: 40%;
+		margin-top: 15px;
+	}
+	.on-focus-slider {
+		margin-bottom: 20px;
+	}
+	.single-news {
+		min-height: 490px;
+	}
+	.home .single-news {
+		min-height: 475px;
+	}
+	.releases-section .single-sneaker {
+
+	}
+	.brand-sec .single-sneaker {
+
+	}
+	.onfocus-slider .single-sneaker {
+		min-height: 255px;
+	}
+.top-brands-slider .single-sneaker {
+	height: 220px !important;
+	min-height: unset;
+}
+	.mobile_social_icons {
+		display: block;
+	}
+	.footer-bottom {
+		margin-bottom: 37px;
+	}
+	.header-social-button {
+		display: none;
+	}
+	.news-content-body a {
+		border: medium none;
+		display: unset;
+	}
+	.btn-readmore a {
+		width: 23%;
+	}
+	.news-text-wrapper > .btn-readmore a {
+		width: 25%;
+	}
+
+
+	body.home .slider-section-slides {
+	    margin-left: -16px;
+	    margin-right: -16px;
+	    width: calc(100% + 32px);
+	}
+	body.home .onfocus-slider .container,
+	body.home .releases-section .container,
+	body.home .news-section .container,
+	body.error404 .container.container-xs-fluid {
+		margin: 0;
+		width: auto;
+	}
+	body.home .single-news {
+		border-bottom: none !important;
+	}
+
+
+}
+
+/* #Mobile (Landscape)
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.stellarnav > ul > li > a {
+		padding: 10px 15px;
+	}
+	.stellarnav li li a {
+		padding: 8px 12px;
+	}
+	.logo img {
+		display: block;
+		margin: 0 auto 15px;
+		width: 45%;
+	}
+	.search input[type="text"] {
+		height: 30px;
+	}
+	/* .search {
+		float: left;
+		margin-left: 28%;
+		width: 44%;
+	} */
+	.search-results {
+		float: none;
+		margin-left: 0;
+		width: 100%;
+	}
+	.header-social-button ul {
+		text-align: center;
+	}
+	.search button {
+		font-size: 10px;
+		height: 30px;
+	}
+	.header-social-button {
+		margin-top: 18px;
+	}
+	.breadcrumbs {
+		padding: 6px 5px 8px 12px;
+	}
+	.sign-up h2 {
+		font-size: 20px;
+		margin-top: 52px;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 100%;
+	}
+	/*.deal-single {
+		min-height: 325px;
+	}*/
+	.sign-up-input input[type="text"] {
+		height: 40px;
+		width: 48%;
+	}
+	.sign-up-icon {
+		font-size: 16px;
+		right: 25%;
+		top: 2px;
+	}
+	.sign-up-icon .btn-default {
+		background-color: transparent;
+		border-color: transparent;
+		color: #fff;
+		font-size: 12px;
+		font-weight: bold;
+		padding: 11px 7px;
+	}
+
+	.sign-up {
+		min-height: 225px;
+	}
+	.footer-menu h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		margin-top: 35px;
+	}
+	.footer-logo {
+		margin-bottom: 18px;
+		margin-top: 22px;
+	}
+	.footer-social-icons ul li a {
+		font-size: 18px;
+	}
+	.stockist {
+		margin-top: 12px;
+		padding-left: 0;
+	}
+	.stockist-image {
+		text-align: center;
+		width: 20%;
+	}
+	.stockist-image img {
+		float: left;
+	}
+	.nav-button-prev .fa-angle-double-left {
+		top: 7px;
+	}
+	.nav-button-next .fa-angle-double-right {
+
+		top: 8px;
+	}
+	.nav-button .nav-button-prev {
+		padding: 0px 6px;
+
+	}
+	.nav-button .nav-button-next {
+		padding: 0px 14px 0px 10px;
+
+	}
+	.related-product-slide {
+		margin-bottom: 5px;
+	}
+	.logo img {
+		margin-bottom: 0;
+	}
+
+	.sidebar-slider{
+		display: none !important;
+	}
+	.release-slider {
+		display: none;
+
+	}
+	.release-filters {
+
+	}
+	.news-heading h2 {
+		font-size: 20px;
+		margin-top: 15px;
+	}
+	.cat-news-body {
+		min-height: 230px;
+	}
+	.news-body p {
+		line-height: 22px;
+		padding-right: 15px;
+	}
+	.news-info {
+		margin-bottom: 0;
+	}
+	.view-news p a {
+		padding: 4px 10px;
+	}
+	.cat-news-date {
+		left: 2%;
+		width: 8%;
+	}
+	.cat-news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-social-share {
+		right: 8%;
+		top: 7%;
+	}
+	.news-img {
+		margin-right: 15px;
+	}
+	.news-title h2 a {
+		font-size: 22px;
+	}
+	.news-img {
+		margin-bottom: 12px;
+	}
+	.news-title h2 {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-date {
+		width: 10%;
+	}
+	.read-more {
+		margin-top: 15px;
+	}
+	.view-news {
+		bottom: 0;
+	}
+	.news-text {
+		margin-top: 12px;
+	}
+	.article_image {
+		margin-left: 15px;
+	}
+	.product-share {
+		padding-bottom: 15px;
+	}
+	.nav-button {
+		margin-bottom: 20px;
+	}
+	.nav-button-prev a {
+		padding: 4px 8px;
+	}
+	.nav-button-next a {
+		padding: 1px 8px;
+	}
+	.content-related-news h2.content-related-news-heading {
+		width: 30%;
+	}
+	.single-related-news h2 {
+		margin: 15px 0 0 -12px;
+	}
+	.release-body .single-sneaker {
+
+	}
+	.search-term h2 {
+		font-size: 19px;
+	}
+	.news-content .nav-button {
+		float: left;
+		margin-top: 10px;
+		text-align: left;
+		width: 50%;
+	}
+	.news-content .nav-button-next a {
+		border: medium none;
+		padding: 4px 5px;
+	}
+	.nav-button .nav-button-prev a {
+		border: medium none;
+		display: block;
+		padding: 4px 5px;
+	}
+	.news-content .nav-button .nav-button-prev, .news-content .nav-button .nav-button-next {
+		text-align: left;
+	}
+
+	.releases-section .single-sneaker {
+		min-height: 265px;
+	}
+	.brand-sec .single-sneaker {
+		min-height: 252px;
+	}
+	.onfocus-slider .single-sneaker {
+		min-height: 210px;
+	}
+.top-brands-slider .single-sneaker {
+	height: 185px !important;
+	min-height: unset;
+}
+	.mobile_social_icons {
+		display: block;
+	}
+	.footer-bottom {
+		margin-bottom: 37px;
+	}
+	.header-social-button {
+		display: none;
+	}
+	.btn-readmore a {
+		width: 40%;
+	}
+	.news-text-wrapper > .btn-readmore a {
+		width: 50%;
+	}
+
+}
+
+/*  #Mobile (Portrait) 320px
+----------------------------------------------------------------------*/
+@media only screen and (min-width: 100px) and (max-width: 480px) {
+	.stellarnav > ul > li > a {
+		padding: 10px 15px;
+	}
+	.stellarnav li li a {
+		padding: 8px 12px;
+	}
+	.logo img {
+		display: block;
+		margin: 0 auto 15px;
+		width: 45%;
+	}
+	.search input[type="text"] {
+		height: 30px;
+	}
+	.search:not(body.search) {
+		float: left;
+		margin-left: 28%;
+		width: 44%;
+	}
+	.search-results {
+		float: none;
+		margin-left: 0;
+		width: 100%;
+	}
+	.header-social-button ul {
+		text-align: center;
+	}
+	.search button {
+		font-size: 10px;
+		height: 30px;
+	}
+	.header-social-button {
+		margin-top: 10px;
+	}
+	.breadcrumbs {
+		padding: 6px 5px 6px 12px;
+	}
+	.deal-heading h1 {
+		font-size: 15px;
+		width: 100%;
+	}
+	/*.deal-single {
+		min-height: 300px;
+	}*/
+	.sign-up h2 {
+		font-size: 17px;
+		margin-top: 42px;
+	}
+	.sign-up-input input[type="email"] {
+		background: transparent none repeat scroll 0 0;
+		height: 35px;
+		width: 100%;
+		min-width: 280px;
+	}
+	.sign-up-icon {
+		font-size: 16px;
+		right: 1px;
+		top: 1px;
+		height: calc(100% - 2px);
+	}
+	.sign-up-icon .btn-default {
+		background-color: transparent;
+		border-color: transparent;
+		color: #fff;
+		font-size: 11px;
+		font-weight: bold;
+		padding: 7px;
+	}
+	.sign-up {
+		min-height: 165px;
+	}
+	.footer-menu h2 {
+		font-size: 17px;
+		margin-bottom: 12px;
+		margin-top: 35px;
+	}
+	.footer-logo {
+		margin-bottom: 18px;
+		margin-top: 22px;
+		text-align: center;
+	}
+	.footer-social-icons ul li a {
+		font-size: 18px;
+	}
+	.footer-top {
+		padding-bottom: 30px;
+	}
+	.stockist {
+		margin-top: 15px;
+		padding-left: 0;
+	}
+	.stockist-image img {
+		float: left;
+	}
+	/*.nav-button .nav-button-prev {
+		font-size: 14px;
+		padding: 0px 8px;
+		width: 100%;
+	}
+	.nav-button .nav-button-next {
+		font-size: 14px;
+		padding: 0px 16px 0px 2px;
+		width: 100%;
+		margin-top: 10px;
+	}
+	.nav-button-prev .fa-angle-double-left {
+		top: 7px;
+	}
+	.nav-button-next .fa-angle-double-right {
+		top: 8px;
+	}*/
+	.bye-now a {
+		padding: 5px 22px;
+	}
+	.stockist-items .stockist-item .stockist-release, .stockist-items .stockist-item .stockist-release span.stockist_coming_soon, .stockist-items .stockist-item .stockist-release .release_date {
+		text-align: left;
+	}
+	.stockist-items .stockist-item .stockist-button.visit-website a {
+		padding: 6px 14px;
+	}
+	.stockist-release span.stockist_in_stock {
+		font-size: 14px;
+	}
+	.stockist-items .stockist-item .stockist-release span.stockist_coming_soon {
+		font-size: 13px;
+	}
+	.stockist-release {
+		margin-left: 1%;
+		text-align: left;
+		width: 35%;
+	}
+	.related-product-slide {
+		margin-bottom: 5px;
+	}
+	/*.owl-nav {
+		display: none;
+	}*/
+	.logo img {
+		margin-bottom: 0;
+	}    
+	/*.stockist h2 {
+		font-size: 14px;
+		width: 60%;
+	}*/
+	/*.related-product-slider-title h3 {
+		font-size: 14px;
+		width: 60%;
+	}
+	.related-product-slider-title h3 {
+		padding: 10px 5% 10px 10px;
+	}
+	.stockist h2 {
+		padding: 10px 3% 10px 10px;
+	}
+	.stockist-item {
+		height: 60px;
+	}*/
+	/*.nav-button {
+		margin-right: 30%;
+	}*/
+	.product-title h1 {
+		font-size: 20px;
+	}
+	.product-price p {
+		font-size: 14px;
+		margin-right: 5px;
+	}
+	.product-style-code p {
+		font-size: 13px;
+	}
+	.product-status h3 {
+		font-size: 13px;
+	}
+	.product-style-code {
+		margin-right: 6px;
+	}
+	.product-details {
+		margin-bottom: 20px;
+		margin-top: 25px;
+	}
+	.release-slider {
+		display: none;
+	}
+	.release-filters {
+
+	}
+
+	.sidebar-slider{
+		display: none !important;
+	}
+	.release-header h1 {
+		width: 100%;
+	}
+	.sorting_section {
+		float: none !important;
+		margin-top: 15px;
+		width: 100% !important;
+	}
+
+	.sorting_section select {
+		padding: 8px 15px;
+		border: 1px solid #d4d4d4;
+		width: 100% !important;
+	}
+	.news-heading h2 {
+		font-size: 18px;
+		margin-top: 15px;
+	}
+	#btnn, #wpas-load-btn {
+		width: 50% !important;
+
+	}
+
+
+
+	.cat-news-body {
+		min-height: 230px;
+	}
+	.news-body p {
+		line-height: 22px;
+	}
+	.news-info {
+		margin-bottom: 0;
+	}
+	.view-news p a {
+		padding: 4px 10px;
+	}
+	/*.cat-news-date {
+		left: 4%;
+		width: 13%;
+	}*/
+	.cat-news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-social-share {
+		right: 8%;
+		top: 7%;
+	}
+	.news-img {
+		margin-right: 15px;
+	}
+	.news-title h2 a {
+		font-size: 18px;
+	}
+	.news-img {
+		margin-bottom: 12px;
+	}
+	.news-title h2 {
+		font-size: 22px;
+		margin-bottom: 5px;
+	}
+	.news-date p {
+		font-size: 16px;
+		padding: 2px;
+	}
+	.news-date {
+		width: 13%;
+	}
+	.read-more {
+		margin-top: 15px;
+	}
+	.view-news {
+		bottom: 0;
+	}
+	.news-text {
+		margin-top: 12px;
+	}
+	.cat-news-body {
+		min-height: 325px;
+	}
+	.product-share {
+		padding-bottom: 30px;
+	}
+	/*.nav-button {
+		margin-bottom: 20px;
+	}
+	.nav-button-prev a {
+		padding: 4px 5px;
+	}
+	.nav-button-next a {
+		padding: 4px 8px;
+	}
+	.nav-button .nav-button-next a {
+		font-size: 13px;
+	}
+	.nav-button-prev a {
+		font-size: 13px;
+	}*/
+	.content-related-news h2.content-related-news-heading {
+		width: 45%;
+	}
+	/*.single-related-news h2 {
+		margin: 15px 0 0 -7px;
+	}*/
+	.search-term h2 {
+		font-size: 19px;
+	}
+
+	.footer-menu {
+		margin-left: 0;
+	}
+
+	/*.news-content .nav-button {
+		float: left;
+		margin-top: 10px;
+		text-align: left;
+		width: 50%;
+	}
+	.news-content .nav-button-next a {
+		border: medium none;
+		font-size: 14px;
+		padding: 4px 5px;
+	}
+	.nav-button .nav-button-prev a {
+		border: medium none;
+		display: block;
+		font-size: 14px;
+		overflow: auto;
+		padding: 4px 3px;
+	}
+	.news-content .nav-button .nav-button-prev, .news-content .nav-button .nav-button-next {
+		text-align: left;
+	}*/
+	.releases-section .single-sneaker {
+		min-height: 200px;
+	}
+	.brand-sec .single-sneaker {
+		min-height: 200px;
+	}
+	.onfocus-slider .single-sneaker {
+		min-height: 195px;
+	}
+	.top-brands-slider .single-sneaker {
+	height: 170px !important;
+	min-height: unset;
+}
+	.releases-section .sneaker-title h2 a {
+		font-size: 14px;
+	}
+	.totop {
+		bottom: 25px;
+		font-size: 19px;
+		height: 35px;
+		line-height: 33px;
+		padding: 0 10px;
+		right: 8px;
+
+	}
+
+	.mobile_social_icons {
+		display: block;
+	}
+	.footer-bottom {
+		margin-bottom: 37px;
+	}
+	.header-social-button {
+		display: none;
+	}
+	.btn-readmore a {
+		width: 52%;
+	}
+	.news-text-wrapper > .btn-readmore a {
+		width: 50%;
+	}
+
+}
+
+/*
+|-------------------------------------------
+| Sourov Responsive CSS
+|-------------------------------------------
+*/
+
+/* Small Desktop */
+@media (max-width: 1199px){
+
+	.header-bottom .brand h3 {
+		font-size: 14px;
+		margin: 0 4px 0 9px;
+	}
+	.header-bottom .brand {
+		padding: 13px 9px 5px;
+	}
+	.header-bottom .brand .fa-angle-double-down {
+		margin-top: -3px;
+	}
+	.header-social-button.sticky-social-col {
+		margin-top: 0;
+		padding-top: 6px;
+		padding-right: 9px;
+	}
+	.header-social-button.sticky-social-col ul {
+		font-size: 12px;
+	}
+	.brand h3 {
+		font-size: 14px;
+	}
+	.stockist_raffle {
+		font-size: 16px;
+	}
+	.onfocus-slider .release-date p {
+		font-size: 12px;
+	}
+	.sneaker-status p {
+		margin-bottom: 6px;
+	}
+	.onfocus-slider .sneaker-status p {
+		margin-bottom: 0;
+	}
+	.stockist_in_stock {
+		font-size: 16px;
+	}
+	.stockist_coming-soon {
+		font-size: 16px;
+	}
+	.onfocus-slider .sneaker-title h2 a {
+		font-size: 16px;
+	}
+	.onfocus-slider .sneaker-status {
+		min-height: 26px;
+	}
+	.onfocus-slider .sneaker-price p {
+		font-size: 14px;
+	}
+	.sneaker-price p {
+		font-size: 14px;
+	}
+	.space-bottom {
+		margin-bottom: 20px;
+	}
+	.sneaker-title h2 {
+		margin-bottom: 5px;
+		margin-top: 15px;
+	}
+	.brand {
+		padding: 16px 10px 12px 10px;
+	}
+	.brand-menu {
+		min-height: 333px;
+	}
+	.news-header-left h3 {
+		margin: 0;
+		padding: 12px 0;
+	}
+	.news-header-right h4 {
+		margin: 0;
+		padding: 11px 0;
+	}
+	.news .news-date {
+		width: 40px;
+	}
+	.releases-section #exTab3.container{
+		width: auto;
+	}
+	.releases-section #exTab3.container .border-red.margin-right-30{
+		margin-right: 0;
+	}
+	.nav-tabs {
+		margin-right: 0;
+	}
+	#sticky-header-sticky-wrapper{
+		height: 41px !important;
+	}
+	.stellarnav > ul > li > a {
+		padding: 10px 12px;
+	}
+	.releases-section .owl-nav {
+		position: absolute;
+		right: 10px;
+		top: -38px;
+	}
+	.releases-section .nav.nav-tabs li a {
+		padding-bottom: 8px;
+		padding-top: 9px;
+	}
+	.cat-all h4 a {
+		padding: 8px 59px 9px 10px;
+	}
+	.on-focus-header-border {
+		min-height: 37px;
+	}
+	#on-focus .owl-nav {
+		position: absolute;
+		right: 8px;
+		top: -36px;
+	}
+	.single-sneaker {
+		min-height: 268px;
+	}
+
+	.brand-sec .stockist_coming-soon {
+		font-size: 16px;
+	}
+	.brand-sec .stockist_in_stock {
+		font-size: 16px;
+	}
+	.brand-sec .release-date p {
+		font-size: 12px;
+	}
+	.brand-sec .sneaker-title h2 a {
+		font-size: 16px;
+	}
+	.brand-sec .sneaker-title h2{
+		margin-bottom: 5px;
+		margin-top: 10px;
+	}
+	.releases-section .sneaker-status {
+		min-height: 20px;
+	}
+	.releases-section .space-bottom {
+		margin-bottom: 30px;
+	}
+	.releases-section .sneaker-title h2 {
+		margin-top: 15px;
+	}
+	.on-focus-header-right {
+		margin-top: 9px;
+	}
+	.owl-prev {
+		font-size: 20px;
+		padding: 0 10px;
+	}
+	.owl-next {
+		font-size: 20px;
+		padding: 0 10px;
+	}
+	.sticky-social-col.header-social-button ul li a {
+		height: 25px;
+		width: 25px;
+	}
+	.sticky-social-col.header-social-button ul li a i{
+		height: 23px;
+		width: 23px;
+		line-height: 23px;
+	}
+
+
+
+
+	} /* End of 1199px */
+
+	/* Tablet Device */
+	@media (max-width: 991px) {
+
+		.header-bottom-wrapper, .brand-menu-col{
+			display: none;
+		}
+		.slider-section-slides{
+			width: 80%;
+			padding-left: 15px;
+		}
+		.slider-section-banners{
+			width: 20%;
+		}
+		.on-focus-header .brand {
+			padding: 13px 10px 11px 10px;
+		}
+		.deal-single .deal-title {
+			font-size: 15px;
+			font-weight: normal;
+			line-height: 22px;
+			padding: 7px;
+		}
+		.on-focus-header-right {
+			margin-left: 0;
+			float: none;
+		}
+		.brand img {
+			width: 26px;
+		}
+		.releases-section .owl-nav {
+			display: none;
+		}
+		.brands-tab-left-banner.margin-padding-0 {
+			margin-top: 18px;
+		}
+		.brands-tab-left-banner img {
+			margin: 0 auto;
+		}
+		.releases-section {
+			margin-bottom: 18px;
+		}
+		.single-news .news-img {
+			margin-right: 0;
+		}
+		.site-logo{
+			display: none;
+		}
+		.navbar-form {
+			padding: 0;
+			margin: 0px auto;
+			max-width: 480px;
+		}
+		.navbar-form .input-group-btn .btn {
+			width: 100%;
+		}
+		.navbar-form .input-group.search .form-control {
+			width: 100%;
+		}
+		.navbar-form .input-group.search .input-group-btn {
+			width: 9%;
+		}
+		.input-group.search {
+			margin: 0;
+			width: 100%;
+			margin-top: 10px;
+		}
+		.single-sneaker .product-image {
+			margin-top: 10px;
+		}
+		.header-social-button ul {
+			text-align: center;
+		}
+		.header-social-button {
+			position: fixed;
+			right: 0;
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+			z-index: 99;
+			margin: 0;
+			padding: 0;
+			width: auto;
+			background-color: #0E263E;
+			padding: 5px;
+		}
+		.header-social-button ul li {
+			display: block;
+			margin: 0;
+		}
+		.header-social-button ul li + li{
+			margin-top: 8px;
+		}
+		.mobile-menu-section-wrapper {
+			/*height: 25px;*/
+		}
+		.header-social-button ul li a {
+			color: #fff;
+		}
+		.header-top {
+			border-bottom: 1px solid #e1e1e1;
+			padding-bottom: 20px;
+			padding-top: 45px;
+		}
+		body {
+			overflow-x: hidden;
+		}
+		.panel-collapse{
+			position: relative;
+		}
+		.releases-view-all {
+			top: -32px;
+			right: 15px;
+		}
+		.releases-view-all a {
+			color: #fff;
+		}
+		.leftmenu-opened .header-social-button,
+		.rightmenu-opened .header-social-button{
+			display: none;
+		}
+		.brands-tab-left-banner{
+			display: none;
+		}
+		.releases-section .single-sneaker {
+			float: left;
+			width: 50%;
+		}
+		body.home .releases-section .single-sneaker {
+			float: left;
+			width: 100%;
+		}
+
+
+
+
+		} /* End of 991px */
+
+		/* Mobile Device */
+		@media (max-width: 990px) {
+			/*.content-wrapper {
+				top: 30px;
+			}*/
+			.release-header ~ .border-gray {
+			    height: 2px;
+			    min-height: 2px;
+			}
+			.single-sneaker {
+				padding: 10px 15px;
+			}
+			body.single-sneaker {
+				padding: 0;
+			}
+			.cat-news-date {
+				top: 0;
+			    left: 0;
+			    /* min-width: 51px; */
+			    padding: 5px 12px;
+			    line-height: 18px;
+			}
+			.header-top {
+				display: none;
+			}
+			.container.has-filter-container {
+				/*margin-top: 49px;*/
+			}
+			.release-body {
+				margin-top: 0;
+				padding-bottom: 30px;
+			}
+			.release-header h2 {
+				margin-top: 0;
+				width: 100%;
+			}
+			.release-header h2, .release-header h1 {
+				background: transparent;
+				color: #333;
+				text-transform: inherit;
+				padding: 10px 15px;
+			}
+			body.search-no-results .release-header h1,
+			body.search-no-results .release-header h2 {
+				padding: 10px 8px;
+			} 
+			.breadcrumbs-container .breadcrumbs {
+				border: 0 !important;
+				border-bottom: 3px solid #d4d4d4 !important;
+				padding: 10px 5px 10px 12px;
+			}
+			.mobile-padding-0 {
+				padding: 0 !important;
+			}
+			.mobile-margin-0 {
+				margin: 0 !important;
+			}
+			.mobile-menu-logo img {
+				max-width: 175px;
+			}
+			.mobile-menu-left-col{
+				padding-right: 0;
+			}
+			.mobile-menu-right-col{
+				padding-left: 0;
+			}
+			.mobile-menu-toggle {
+				padding-top: 9px;
+				font-size: 14px;
+			}
+			.mobile-menu-section .col-xs-6{
+				padding: 0;
+			}
+			.mobile-menu-section-wrapper {
+				/*height: 45px;*/
+			}
+			.navbar-form-col{
+				position: static;
+			}
+			.header-section .container{
+				position: relative;
+			}
+			.header-social-button {
+				right: 50%;
+				top: auto;
+				-webkit-transform: translate(50%, 0);
+				-ms-transform: translate(50%, 0);
+				transform: translate(50%, 0);
+				bottom: 0;
+				min-width: 100%;
+				position: fixed;
+
+			}
+			.footer-bottom {
+
+				margin-bottom: 39px;
+			}
+			.header-social-button ul li {
+				display: inline-block;
+			}
+			.header-social-button ul li + li {
+				margin: 0;
+			}
+			.header-top {
+				padding-bottom: 12px;
+				padding-top: 2px;
+			}
+			.slider-section-slides {
+				width: 100%;
+				padding-right: 15px;
+			}
+			.slider-section-banners {
+				display: none;
+			}
+			.slider-section, .on-focus-slider {
+				margin-bottom: 20px;
+			}
+			.on-focus-header-border {
+				padding-left: 0;
+			}
+			.news-img img {
+				width: 100%;
+			}
+			.middle-banner img {
+				width: 100%;
+			}
+			.releases-view-all {
+				position: static;
+				margin-top: 11px;
+			}
+			.releases-view-all a{
+				background-color: #ea2027;
+				display: block;
+				padding: 7px;
+				text-align: center;
+			}
+			.panel-body{}
+			.js-tabcollapse-panel-body{
+				padding: 0;
+			}
+
+			.brand-sec .sneaker-title h2 a {
+				font-size: 14px;
+			}
+			.onfocus-slider .sneaker-title h2 a {
+				font-size: 14px;
+			}
+			.stockist_in_stock {
+				font-size: 14px;
+			}
+			.stockist_raffle {
+				font-size: 14px;
+			}
+			.stockist_coming-soon {
+				font-size: 14px;
+			}
+			.brand-sec .stockist_in_stock {
+				font-size: 14px;
+			}
+			.brand-sec .stockist_coming-soon {
+				font-size: 14px;
+			}
+			.rr_review_form .form_table .rr_form_row .rr_form_input input[type="text"] {
+				width: 99% !important;
+			}
+			.rr_review_form .form_table .rr_form_row .rr_form_input textarea {
+				width: 99% !important;
+			}
+			.release-filters .wpas-field {
+				margin-bottom: 7px;
+			}
+
+			.news-content-body a {
+				border: none;
+				display: unset;
+			}
+
+			/* home page styles */
+			body.home .slider-section-slides {
+				padding: 0;
+			}
+			body.home .onfocus-slider,
+			body.home .releases-section
+			 {
+				margin-left: -8px;
+				margin-right: -8px;
+			}
+			.each-releas-section {
+				margin-bottom: 20px;
+			}
+			.mobile-section-title {
+				display: flex !important;
+			    align-items: center;
+			    background: #fff;
+			    padding: 7px 8px;
+			    margin: 0;
+			    justify-content: space-between;
+			    border-top: 1px solid #ea2027;
+			    border-bottom: 3px solid #ddd;
+			    position: relative;
+			    z-index: 9;
+			}
+			.mobile-section-title h3 {
+				margin: 0;
+			    font-size: 16px;
+			    font-weight: 600;
+			}
+			.mobile-section-title a {
+			    color: #777;
+			    font-size: 15px;
+			    text-decoration: none;
+			}
+
+
+			/* release filters styles */
+			.release-header h1 {
+				margin-top: 0;
+			}
+			.release-header .sorting_section, .release-header h1, .release-header select {
+				width: 100% !important;
+			}
+			div#releas-filters {
+				position: fixed;
+				left: 0;
+				top: 0px;
+				opacity: 0;
+				visibility: hidden;
+				-webkit-transition: all .4s;
+				-moz-transition: all .4s;
+				-ms-transition: all .4s;
+				-o-transition: all .4s;
+				transition: all .4s;
+				z-index: 999;
+				width: 100%;
+				height: 100vh;
+				overflow-y: scroll;
+				background: #f0f0f0;
+				transform: translate(0, -100px);
+			}
+			body.filters-modal-opened {
+				overflow-y: hidden;
+				font-size: 15px;
+			}
+			div#releas-filters.opened {
+				top: -1px;
+				opacity: 1;
+				visibility: visible;
+				transform: translate(0, 0);
+			}
+			.release-calender-addon input {
+				border: 1px solid #afafaf;
+			}
+			#daterangeclear2 {
+				background: #ea2027 none repeat scroll 0 0;
+				border: medium none;
+				color: #fff;
+				display: block;
+				margin: 10px auto 0;
+				padding: 2px 5px;
+				width: 35%;
+			}
+			.btn-flat, .alert-flat {
+				border-radius: 0;
+			}
+			.alert-select-category {
+				background: #0e263e;
+				color: #fff;
+				padding: 15px;
+				margin-bottom: 0;
+			}
+			.alert-select-category #selected-item {
+				padding-left: 10px;
+			}
+			.alert-select-category .close {
+				opacity: 1;
+				color: inherit;
+				font-weight: inherit;
+				text-shadow: inherit;
+				font-size: inherit;
+			}
+
+			.modal {
+				text-align: center;
+				padding: 0!important;
+			}
+
+			.modal:before {
+				content: '';
+				display: inline-block;
+				height: 100%;
+				vertical-align: middle;
+				margin-right: -4px;
+			}
+
+			.modal-dialog {
+				display: inline-block;
+				text-align: left;
+				vertical-align: middle;
+			}
+
+			.filter-button-wrapper {
+				position: fixed;
+				width: 100%;
+				bottom: 0;
+				left: 0;
+				z-index: 99999;
+				display: block;
+				width: 100%;
+				overflow: hidden;
+				opacity: 0;
+				visibility: hidden;
+				transform: translate(0, -100px);
+				transition: all .1s ease-in-out;
+				/*transition-delay: .3s;*/
+			}
+			body.filters-modal-opened .filter-button-wrapper {
+				visibility: visible;
+				opacity: 1;
+				transform: translate(0, 0);
+			}
+			.filter-button-wrapper .btn {
+				width: 50%;
+				display: block;
+				border: 0;
+				border-radius: 0;
+				float: left;
+				padding: 15px 10px;
+			}
+			.filter-button-wrapper .btn.disabled {
+				pointer-events: none;
+			}
+			.release-filters .wpas-checkboxes label {
+				margin-left: 0;
+			}
+			#wpas-load img {
+				left: 50%;
+				transform: translate(-50%, 0);
+			}
+			.filter-button-container {
+				position: fixed;
+				z-index: 98;
+				top: 55px;
+				left: 0;
+				width: 100%;
+				padding-bottom: 0px;
+				background: #0e263e;
+				border-bottom: 3px solid #e52e33;
+				/*box-shadow: 1px 1px 2px 0px #0e263e;*/
+			}
+			/*.filter-button-container .btn-group-justified {
+			    border-collapse: collapse;
+			}*/
+			.filter-button-container a {
+				border-top: 0;
+				border-left: 0;
+				border-right: 0;
+				color: #fff !important;
+				background: transparent;
+				border-radius: 0;
+			}
+			.filter-button-container a:hover,
+			.filter-button-container a:active {
+				background: #0c3258;
+			}
+			.filter-button-container .btn:first-child {
+				border-right: 1px solid #d4d4d4;
+			}
+			.filter-button-wrapper .button-reset {
+				background: #ea2027;
+			}
+			.filter-button-wrapper .button-apply {
+				background: #0e263e;
+			}
+			.filter-products-wrapper .list-group-item  {
+				border-radius: 0 !important;
+				border-left: 0;
+				border-right: 0;
+				padding: 15px;
+			}
+			.filter-products-wrapper .list-group {
+				margin-bottom: 0;
+			}
+
+			.post-type-archive-sneaker .header-section {
+				visibility: hidden;
+				opacity: 0;
+			}
+			#wpadminbar {
+				z-index: 97;
+			}
+			.post-type-archive-sneaker #wpadminbar {
+				top: 45px;
+				z-index: -1;
+			}
+
+
+			/* accordion styles */
+			.panel-heading .panel-title a {
+				position: relative;
+			}
+			.panel-heading .panel-title a:before {
+				content: '';
+				background: #fff;
+				height: 5px;
+				right: 10px;
+				position: absolute;
+				top: calc(50% - 2.5px);
+				width: 20px;
+			}
+			.panel-heading .panel-title a:after {
+				content: '';
+				background: #fff;
+				height: 20px;
+				right: 17.5px;
+				top: 7.5px;
+				position: absolute;
+				width: 5px;
+				-webkit-transition: all .4s;
+				-o-transition: all .4s;
+				transition: all .4s;
+				-webkit-transform: rotate(-90deg);
+				-ms-transform: rotate(-90deg);
+				transform: rotate(-90deg);
+			}
+			.panel-heading .panel-title a.collapsed:after{
+				-webkit-transform: rotate(-180deg);
+				-ms-transform: rotate(-180deg);
+				transform: rotate(-180deg);
+			}
+			/* end accordion styles */
+
+
+
+			/* filter popup multilayer styles */
+			.filter-products-wrapper {
+				position: relative;
+				overflow-x: hidden;
+				overflow-y: scroll;
+				width: 100%;
+				height: calc(100% - 105px);
+			}
+			.first-layer, .second-layer {
+				background: #f0f0f0;
+				overflow-x: hidden;
+				width: 100%;
+				height: 100%;
+				transition: all .3s ease-in-out;
+			}
+			.second-layer {
+				position: absolute;
+				top: 0;
+				transform: translateX(100%);
+			}
+			.filter-products-wrapper.second-layer-active .second-layer {
+				transform: translateX(0); 
+			}
+			.filter-products-wrapper.second-layer-active .first-layer {
+				transform: translateX(-100%); 
+			}
+			.data-filter-item {
+				display: none;
+			}
+			.data-filter-item.show {
+				display: block;
+			}
+
+			.data-filter-item ul.left_sidebar_field li {
+				padding: 0;
+			}
+			.data-filter-item ul.left_sidebar_field li label.list-group-item {
+				padding-right: 30px;
+			}
+			.data-filter-item ul.left_sidebar_field li:not(:last-child) label.list-group-item{
+				border-bottom: 0;
+			}
+			.data-filter-item ul.left_sidebar_field li label.list-group-item input[type="checkbox"],
+			.data-filter-item ul.left_sidebar_field li label.list-group-item input[type="radio"] {
+				right: 0;
+				margin-right: 20px;
+				position: absolute;
+			}
+			.data-filter-item ul.left_sidebar_field li label.list-group-item input[type="radio"] {
+				top: calc( 50% - 6.5px );
+			}
+			#release-calender {
+				padding: 15px;
+			}
+			.release-calender-addon {
+				position: relative;
+			}
+			.release-calender-addon i {
+				position: absolute;
+				top: calc(50% - 8px);
+				left: 15px;
+			}
+			.release-calender-addon input {
+				padding: 7px 15px 7px 40px;
+				width: 100%;
+			}
+			.release-calender-addon input:focus {
+				border-color: #0e263e;
+				outline: none;
+			}
+			#clear-button.disabled {
+				cursor: not-allowed;
+				opacity: .7;
+			}
+			label.list-group-item {
+				font-weight: normal;
+			}
+
+
+			/* brand page */
+			.release-filters .field-container {
+				height: auto !important;
+				opacity: 1 !important;
+				visibility: visible !important;
+				padding: 0;
+			}
+			.wpas-checkbox-container, .wpas-radio-container {
+				margin-bottom: 0 !important;
+				border-bottom: 0;
+			}
+			#wpas-reset, .release-filters .label-container {
+				display: none;
+			}
+/* 
+.ranges li {
+  display: inline-block;
+  float: left;
+  margin-right: 7px;
+}
+.daterangepicker .daterangepicker_input i {
+  display: none;
+}
+
+.table-condensed>tbody>tr>td, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>td, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>thead>tr>th {
+  padding: 0;
+  } */
+
+  } /* End of 767px */  
+
+  .form-control:focus {
+  	border-color: #0e263e;
+  }
+  #mce-EMAIL {
+  	padding-left: 10px;
+  }
+
+
+  /* custom checkbox and radio buttons style */
+
+/*@media screen and (max-width: 767px){
+	*/
+
+	@media only screen and (max-width: 990px){
+		.mobile_social_icons {
+			padding: 0;
+		}
+		.mobile_social_icons li a {
+			padding: 6px 10px !important;
+			display: block;
+		}
+		.mobile_social_icons .sns-facebook {
+			background: #3b5998;
+		}
+		.mobile_social_icons .sns-twitter {
+			background: #1da1f2;
+		}
+		.mobile_social_icons .sns-pinterest {
+			background: #bd081c;
+		}
+		.mobile_social_icons .sns-google-plus {
+			background: #db4437;
+		}
+		.mobile_social_icons .sns-instagram {
+			background: #c32aa3;
+		}
+		.mobile_social_icons ul {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100%;
+			flex-wrap: nowrap;
+		}
+		.mobile_social_icons ul li a {
+			border: 0;
+			height: inherit;
+			width: inherit;
+			display: block;
+			text-align: center;
+			font-size: 18px;
+			width: 100%;
+			line-height: 100%;
+		}
+		.mobile_social_icons ul li:last-child a {
+			border-right: 0;
+		}
+		.mobile_social_icons ul li {
+		/*float: left;
+		text-align: center;*/
+		width: 20%;
+	}
+}
+
+
+@media only screen and (max-width: 990px){
+	.container-xs-fluid, .container {
+		padding: 0;
+	}
+	.container .row {
+		margin-left: -7.5px;
+		margin-right: -7.5px;
+	}
+	.archive-text-wrapper {
+		margin: 0 15px 15px 15px;
+	}
+	.container-xs-fluid .release-body .single-sneaker {
+		border-width: 0;
+		border-bottom-width: 1px !important;
+		margin-right: 0;
+		min-height: inherit;
+	}
+	.container-xs-fluid .release-body .margin-padding-0:nth-child(1) .single-sneaker,
+	.container-xs-fluid .release-body .margin-padding-0:nth-child(2) .single-sneaker {
+		border-top-width: 1px !important;
+	}
+	.container-xs-fluid .release-body .margin-padding-0:nth-child(odd) .single-sneaker {
+		border-right-width: 1px !important;
+	}
+	.container-xs-fluid .release-body .margin-padding-0:nth-child(even) .single-sneaker {
+		border-right-width: 1px !important;
+		border-right-color: transparent !important;
+	}
+	.container-xs-fluid .col-sm-12  {
+		padding: 0;
+		margin: 0 7px;
+	} 
+	.container-xs-fluid .release-body .margin-padding-0 .single-sneaker {
+		border-bottom-width: 0;
+		margin-bottom: 0;
+	}
+  /*.container-xs-fluid .release-body .margin-padding-0:nth-last-child(-n+3) .single-sneaker {
+	border-bottom-width: 1px;
+	margin-bottom: 10px;
+	}*/
+	.checkbox-inline, label.list-group-item {
+		display: flex;
+		justify-content: space-between;
+		flex-direction: row-reverse;
+		align-items: center;
+		padding-right: 15px !important;
+	}
+	.release-filters {
+		margin-top: 0 !important;
+	}
+	.sidenav-menu {
+		max-height: 75vh;
+		overflow-y: auto;
+	}
+	ul.sidenav-menu li.has-submenu:before {
+		right: 15px;
+		top: 14px;
+		pointer-events: none;
+	}
+	#menu-main-menu {
+		/*margin: 0 -20px;*/
+	}
+	#menu-main-menu li {
+		margin-top: 0 !important;
+	}
+	#menu-main-menu li a {
+		display: block;
+		padding: 15px 20px;
+		line-height: 18px;
+
+		/*border-bottom: 1px solid #264d73;*/
+	}
+	#menu-main-menu li ul {
+		padding: 0 !important;
+
+	}
+	#menu-main-menu li > ul {
+		background: #fafafa;
+	}
+	#menu-main-menu li > ul > li > ul {
+		/*background: rgba(0,0,0,0.5);	*/
+	}
+	#menu-main-menu li > ul > li a {
+		padding-left: 40px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		font-size: 14px;
+
+	}
+	#menu-main-menu li > ul > li > ul > li a {
+		padding-left: 50px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	#menu-main-menu li > ul > li > ul > li a:before {
+		content: ' - ';
+		font-size: 20px;
+		font-weight: bold;
+	}
+	.pagination-wrapper {
+		/*margin-top: 25px;*/
+	}
+
+
+	/* news page */
+	.cat-news-body {
+		padding-right: 15px !important;
+		min-height: inherit;
+		height: auto;
+	}
+	.view-news {
+	    position: relative;
+	    margin-top: 10px;
+	    margin-bottom: 15px;
+	}
+	.news-text-wrapper {
+		margin: 0;
+		margin-bottom: 30px;
+	}
+	.metaslider {
+		width: calc(100% + 20px) !important;
+		margin: 10px -10px !important;
+	}
+	.news-content-body p img {
+		margin-bottom: 10px;
+	}
+
+	.article_image {
+		margin-left: 0;
+		margin-right: -7px;
+	}
+	.article_image img {
+		margin-top: 0 !important;
+	}
+	.article_image_wrapper {
+		padding-right: 0;
+	}
+	.news-sidebar {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.single-related-news {
+		margin-bottom: 0;
+		margin-bottom: 0;
+		border-bottom: 8px solid #ddd;
+	}
+	.single-related-news h2 {
+		margin: 10px 10px 0 0;
+	}
+	.release-header h2, .content-related-news h2.content-related-news-heading, .index-heading h2, .release-header h1 {
+		width: 100%;
+		display: block;
+	}
+	.single .news-content-info {
+		flex-direction: column;
+	}
+	.post .content-cat, .content-tag {
+		width: 100%;
+		margin-right: 0;
+		padding: 0;
+		border: 0;
+	}
+	.blog .index-heading,
+	.archive .index-heading {
+		margin: 0;
+	}
+	.blog .index-heading h2,
+	.archive .index-heading h2 {
+		color: #333;
+		background: transparent;
+	}
+	.blog .border-red,
+	.archive .border-red {
+		display: none;
+	}
+	.news-pagination {
+		margin-top: 15px;
+	}
+	.cat-single-news {
+		margin-bottom: 0 !important;
+		border-bottom: 8px solid #ddd;
+	}
+	.popular-news .news-img {
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+	.popular-news .release-header h1 {
+		padding: 15px 0;
+		margin-left: -7px;
+	}
+	.popular-news .single-news {
+		padding-top: 0;
+		border-bottom-width: 8px;
+	}
+	.content-related-news-heading,
+	.stockist h2,
+	.related-product-slider-title h3 {
+		color: #333 !important;
+	    background: transparent !important;
+	    width: 100%;
+	    /* margin-bottom: 15px; */
+	    border-top: 1px solid #ed2027;
+	    border-bottom: 3px solid #ddd;
+	}
+	.content-related-news .border-red,
+	.stockist .border-red,
+	.related-product-slider-title .border-red {
+		display: none;
+	}
+
+	/* single sneaker page */
+	#amazingslider-1 {
+		margin-left: -15px !important;
+		margin-right: -15px !important;
+		min-width: calc(100% + 30px);
+	}
+	.single-sneaker .product-image,
+	.sign-up-section {
+		margin-top: 0;
+	}
+	.amazingslider-arrow-left-1,
+	.amazingslider-arrow-right-1 {
+		margin-top: -30px !important;
+		background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20version%3D%271.1%27%20id%3D%27Layer_1%27%20x%3D%270px%27%20y%3D%270px%27%20viewBox%3D%270%200%20511.999%20511.999%27%20style%3D%27enable-background%3Anew%200%200%20511.999%20511.999%3B%27%20xml%3Aspace%3D%27preserve%27%20width%3D%2740px%27%20height%3D%2760px%27%20class%3D%27%27%3E%3Cg%3E%3Cg%3E%3Cpath%20d%3D%27M361.889%2C474.762L197.817%2C256.006L361.889%2C37.237c7.713-10.283%2C5.627-24.871-4.655-32.582%20%20c-10.282-7.713-24.871-5.626-32.582%2C4.655L150.109%2C242.042c-6.206%2C8.274-6.206%2C19.653%2C0%2C27.927l174.544%2C232.72%20%20c4.572%2C6.097%2C11.56%2C9.311%2C18.637%2C9.311c4.858%2C0%2C9.759-1.517%2C13.945-4.656C367.518%2C499.631%2C369.602%2C485.044%2C361.889%2C474.762z%27%20data-original%3D%27%231D1D1D%27%20style%3D%27stroke%3A%20%23333333%3Bstroke-width%3A%2015px%3B%27%20class%3D%27active-path%27%20data-old_color%3D%27%231E1E1E%27%20fill%3D%27%23FFFFFF%27%2F%3E%3C%2Fg%3E%3C%2Fg%3E%20%3C%2Fsvg%3E%0A") !important; 
+		max-height: 60px !important;
+		height: 60px !important;
+	}
+	.amazingslider-arrow-left-1 {
+		left: 6px !important;		
+	}
+	.amazingslider-arrow-right-1 {
+		right: 10px !important;	
+		-webkit-transform: rotate(180deg);	
+		-mox-transform: rotate(180deg);	
+		transform: rotate(180deg);	
+	}
+	.related-product.owl-carousel .single-sneaker {
+		height: auto !important;
+		margin: 0 !important;
+		border-right-width: 0;
+	}
+	/*.related-product .owl-nav {
+		display: block;
+		right: 10px;
+		top: -34px;
+	}*/
+	.related-product-slider-title .border-red.margin-bottom-15 {
+		margin-bottom: 0;
+	}
+	.nav-button {
+		display: none;
+	}
+
+	/* stocklist styles */
+	.stockist, .related-product-slider {
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+	.stockist-item {
+		padding: 10px;
+		height: auto;
+	}
+
+	#wpas-load {
+		display: block;
+		float: left;
+		width: 100%;
+		min-height: 80px;
+		overflow: visible;
+	}
+	#wpas-load button {
+		margin-top: 20px;
+	}
+
+	/* 404 page styles */
+	/*.nothing-found-heading {
+		padding-left: 7px !important;
+	}*/
+	.nothing-found-wrapper {
+		padding-right: 15px !important;
+	}
+
+	/* search page styles */
+	body.search-results .release-header h1 {
+		padding-left: 15px;
+	}
+
+	/* sneaker pag estyles */
+	body.post-type-archive-sneaker .container-xs-fluid .col-sm-12,
+	body.tax-department .container-xs-fluid .col-sm-12,
+	body.tax-status .container-xs-fluid .col-sm-12 {
+		margin: 0 !important;
+	}
+	.single-sneaker .nav-button-next {
+		text-align: right;
+	}
+
+	/* owl nav */
+	.owl-nav {
+	    display: block !important;
+	    right: 10px !important;
+	    top: 50% !important;
+	    width: 100% !important;
+	}
+	.owl-prev,
+	.owl-next {
+		height: 60px;
+		width: 40px;
+		margin-top: -30px;
+		color: transparent;
+	}
+	.owl-prev {
+		background: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20version%3D%271.1%27%20id%3D%27Layer_1%27%20x%3D%270px%27%20y%3D%270px%27%20viewBox%3D%270%200%20511.999%20511.999%27%20style%3D%27enable-background%3Anew%200%200%20511.999%20511.999%3B%27%20xml%3Aspace%3D%27preserve%27%20width%3D%2740px%27%20height%3D%2760px%27%20class%3D%27%27%3E%3Cg%3E%3Cg%3E%3Cpath%20d%3D%27M361.889%2C474.762L197.817%2C256.006L361.889%2C37.237c7.713-10.283%2C5.627-24.871-4.655-32.582%20%20c-10.282-7.713-24.871-5.626-32.582%2C4.655L150.109%2C242.042c-6.206%2C8.274-6.206%2C19.653%2C0%2C27.927l174.544%2C232.72%20%20c4.572%2C6.097%2C11.56%2C9.311%2C18.637%2C9.311c4.858%2C0%2C9.759-1.517%2C13.945-4.656C367.518%2C499.631%2C369.602%2C485.044%2C361.889%2C474.762z%27%20data-original%3D%27%231D1D1D%27%20style%3D%27stroke%3A%20%23333333%3Bstroke-width%3A%2015px%3B%27%20class%3D%27active-path%27%20data-old_color%3D%27%231E1E1E%27%20fill%3D%27%23FFFFFF%27%2F%3E%3C%2Fg%3E%3C%2Fg%3E%20%3C%2Fsvg%3E%0A") !important;
+		margin-left: 10px;
+	}
+	.owl-next {
+		background: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20version%3D%271.1%27%20id%3D%27Layer_1%27%20x%3D%270px%27%20y%3D%270px%27%20viewBox%3D%270%200%20511.999%20511.999%27%20style%3D%27enable-background%3Anew%200%200%20511.999%20511.999%3B%27%20xml%3Aspace%3D%27preserve%27%20width%3D%2740px%27%20height%3D%2760px%27%20class%3D%27%27%3E%3Cg%3E%3Cg%3E%3Cpath%20d%3D%27M361.889%2C474.762L197.817%2C256.006L361.889%2C37.237c7.713-10.283%2C5.627-24.871-4.655-32.582%20%20c-10.282-7.713-24.871-5.626-32.582%2C4.655L150.109%2C242.042c-6.206%2C8.274-6.206%2C19.653%2C0%2C27.927l174.544%2C232.72%20%20c4.572%2C6.097%2C11.56%2C9.311%2C18.637%2C9.311c4.858%2C0%2C9.759-1.517%2C13.945-4.656C367.518%2C499.631%2C369.602%2C485.044%2C361.889%2C474.762z%27%20data-original%3D%27%231D1D1D%27%20style%3D%27stroke%3A%20%23333333%3Bstroke-width%3A%2015px%3B%27%20class%3D%27active-path%27%20data-old_color%3D%27%231E1E1E%27%20fill%3D%27%23FFFFFF%27%2F%3E%3C%2Fg%3E%3C%2Fg%3E%20%3C%2Fsvg%3E%0A") !important;
+		margin-right: -10px;
+		transform: rotate(180deg);
+	}
+
+}
+
+.view-news p a {
+	display: inline-flex;
+	align-items: center;
+	padding: 7px 15px;
+    border-radius: 3px;
+    font-family: 'fira sans';
+    font-size: 14px;
+}
+
+.view-news p a i {
+	padding-left: 10px;
+}
+
+
+
+@media only screen and (max-width: 500px){
+	.sign-up-section {
+		padding-bottom: 30px;
+	}
+}
